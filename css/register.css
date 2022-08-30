@@ -2,5 +2,12 @@ body{
     background-image: url(../background/background1.webp);
     background-size: cover;
     height: 100vh;
+    background-repeat: no-repeat;
     width: 100%;
+}
+a{
+    color: dodgerblue;
+    font-weight: 700;
+    font-size: larger;
+    text-transform: capitalize;
 }

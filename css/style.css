@@ -317,4 +317,41 @@ transition: 0.5s;
         color: white;
         font-size: larger;
     }
+    .products{
+        width:60%;
+        margin: 10px 0;
+        }
+        .product-item{
+            display: flex;
+            width: 100%;
+            border: 1px solid #ddd;
+            justify-content: space-between;
+            margin-top: 10px;
+            min-height: 70px;
+        
+        }
+        .product-item-image{
+            width: 100%;
+        
+        }
+        .product-item-desc a{
+        
+            font-size: x-large;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .product-item-desc a:hover{
+            color: dodgerblue;
+        }
+        .product-item-desc p{
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+        .product-item-desc span{
+            font-size: larger;
+            font-weight: bolder;
+            color: coral;
+            display: block;
+        }
 }

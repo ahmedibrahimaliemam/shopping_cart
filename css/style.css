@@ -273,7 +273,7 @@ transition: 0.5s;
 .edit-product:hover{
     opacity: 0.6;
 }
-@media screen and (max-width:426px) {
+@media screen and (max-width:461px) {
     .header-content{
        display: block;
        text-align: center;

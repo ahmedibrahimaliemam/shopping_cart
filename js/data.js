@@ -3,9 +3,9 @@ let Data=[
         id:1 ,
         title:"headphone item" ,
         size:"large" ,
-        imageUrl:"images/headphone.jpg",
+        imageUrl:"images/head.jpg",
         qty:1 ,
-        description:"Lorem ipsum dolor sit amet,<br> consectetur adipisicing",
+        description:"head phone </br><span>250$</span></br>",
         isMe:"N"
     }
     ,
@@ -15,7 +15,7 @@ let Data=[
         size:"small" ,
         imageUrl:"images/lab.jpg",
         qty:1 ,
-        description:"Lorem ipsum dolor sit amet,<br> consectetur adipisicing",
+        description:"Labtop </br><span>1600$</span></br>",
         isMe:"N"
     }
     ,
@@ -25,7 +25,7 @@ let Data=[
         size:"medium" ,
         imageUrl:"images/watch.jpg" ,
         qty:1 ,
-        description:"Lorem ipsum dolor sit amet,<br> consectetur adipisicing",
+        description:"watch </br><span>1000$</span></br>",
         isMe:"N"
     }
     ,
@@ -35,7 +35,7 @@ let Data=[
         size:"large" ,
         imageUrl:"images/glass.jpg",
         qty:1 ,
-        description:"Lorem ipsum dolor sit amet,<br> consectetur adipisicing",
+        description:"glass </br><span>100$</span></br>",
         isMe:"N"
     }
     ,
@@ -43,9 +43,9 @@ let Data=[
         id:5 ,
         title:"Iphone 13 item" ,
         size:"medium" ,
-        imageUrl:"images/iphone13.jpg",
+        imageUrl:"images/iphone.jpg",
         qty:1 ,
-        description:"Lorem ipsum dolor sit amet,<br> consectetur adipisicing",
+        description:"iphone13pro max </br><span>1500$</span></br>",
         isMe:"N"
 
     },
@@ -55,7 +55,7 @@ let Data=[
         size:"large" ,
         imageUrl:"images/chair.jpg",
         qty:1 ,
-        description:"Lorem ipsum dolor sit amet,<br> consectetur adipisicing",
+        description:"chair </br><span>500$</span></br>",
         isMe:"N"
 
     }
